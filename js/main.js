@@ -1,9 +1,9 @@
 /* ===== Edit these links once your tools are set up (see README) ===== */
 const LUME = {
-  enquiryForm: "#",          // Google Form link, e.g. https://forms.gle/xxxx
-  calendarEmbed: "",         // Google Calendar public embed URL (free/busy only)
-  instagram: "https://instagram.com/",
-  email: "hello@example.com",
+  enquiryForm: "https://docs.google.com/forms/d/e/1FAIpQLSfTn3yns8cKWUkNDZqkPrPj3pid2JXWL_lGh6eDvNz4hyxerw/viewform",
+  calendarEmbed: "https://calendar.google.com/calendar/embed?src=lumeb470%40gmail.com&ctz=Pacific%2FAuckland&mode=MONTH&showTitle=0&showPrint=0&showCalendars=0&showTabs=1",
+  instagram: "https://www.instagram.com/lume.beautynz/",
+  email: "lumeb470@gmail.com",
   introBannerUntil: "2026-12-01" // banner hides automatically from this date
 };
 
